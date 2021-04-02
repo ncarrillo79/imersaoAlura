@@ -139,6 +139,8 @@ function exibirOpcoes() {
   for (var atributo in cardPlayer.atributos){
     opcoesTexto += "<input type='radio' name='atributo' value='" + atributo + "'>" + atributo
   }
+
+  console.log(opcoesTexto)
   opcoes.innerHTML = opcoesTexto
 }
 
@@ -146,6 +148,7 @@ function obtemAtributoSelecionado(){
   var radioAtributo = document.getElementsByName('atributo')
   for (var i = 0; i < radioAtributo.length; i++){
     if (radioAtributo[i].checked) {
+      console.log(radioAtributo[i].value)
       return radioAtributo[i].value
     }
   }
@@ -153,7 +156,7 @@ function obtemAtributoSelecionado(){
 
 function jogar(){
   var atributoSelecionado = obtemAtributoSelecionado()
-  
+  console.log(atributoSelecionado)
   if (cardPlayer.atributos[atributoSelecionado] > cardPc.atributos[atributoSelecionado]){
     alert(
       'Parabéns!',
