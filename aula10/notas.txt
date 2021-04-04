@@ -1,0 +1,28 @@
+Generator Box
+https://html-css-js.com/css/generator/box-shadow/
+
+Referencia de CSS
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference
+
+Github
+https://www.youtube.com/watch?v=nec3n02idMw&ab_channel=AluraCursosOnline
+
+site de emojis
+https://emojipedia.org/
+https://emojipedia.org/handbag/#:~:text=Emoji%20Me
+
+site cssehttps://css-tricks.com/
+https://css-tricks.com/the-holy-grail-layout-with-css-grid/
+
+
+agregador de imagens de fundo:
+https://unavatar.now.sh/
+
+site paleta de cores:
+https://www.materialpalette.com/
+
+box-shadow:
+https://html-css-js.com/css/generator/box-shadow/
+
+Generador de Links:
+Share Link Generator

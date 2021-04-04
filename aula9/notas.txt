@@ -1,0 +1,26 @@
+
+
+Conteúdos extras:
+Como abrir um projeto do CodePen no VSCode
+https://www.youtube.com/watch?v=xvkuNF_8Coc&ab_channel=GuilhermeLima
+
+JavaScript segundo a documentação
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+Primeiros passos na programação
+https://hipsters.tech/primeiros-passos-na-programacao-a-imersao-dev-hipsters-ponto-tech-243/
+
+5 minutos de HTML
+https://www.youtube.com/watch?v=3oSIqIqzN3M&ab_channel=RafaellaBallerini
+
+Mais sobre variáveis
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis
+
+Mais sobre a fução paeseFloat
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
+
+Projetos para praticar JavaScript
+https://www.youtube.com/playlist?list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9
+
+Como estudar melhor
+https://www.youtube.com/playlist?list=PL-kOa62ayb1wQPeBChJ6KBILRLL2AHoZU

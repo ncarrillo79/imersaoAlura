@@ -28,12 +28,6 @@ var cartaGui = {
     }
 }
 
-
-
-
-
-
-
 var cartaMaquina
 var cartaJogador
 var cartas = [cartaPaulo, cartaRafa, cartaGui]
@@ -114,3 +108,4 @@ function exibeCartaMaquina() {
 
     divCartaMaquina.innerHTML = moldura + nome + html + opcoesTexto + '</div>'
 }
+
