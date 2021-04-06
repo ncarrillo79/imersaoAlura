@@ -17,3 +17,11 @@ Recalcular os pontos quando vitória ou empate for adicionado.
 Desafios dessa aula!
 Incluir uma imagem na linha de cada jogador;
 Um botão que adiciona um novo jogador na tabela de classificação.
+
+links importantes
+https://codepen.io/
+https://www.alura.com.br/artigos/html-css-e-js-definicoes
+https://codepen.io/imersao-dev/pen/KKaKKKK
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types#vari%C3%A1veis
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/parseFloat

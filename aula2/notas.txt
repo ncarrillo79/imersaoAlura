@@ -1,0 +1,22 @@
+Conteúdo detalhado dessa aula:
+
+Interagir com usuário para receber os valores que serão calculados;
+Criar a lógica para saber qual operação será executada;
+Comparar o valor da operação escolhida para descobrir qual função será realizada;
+Exibir uma mensagem de erro, caso a operação escolhida seja inválida;
+Exibindo os valores escolhidos e o resultado da operação com document.write;
+
+Links importantes para você acompanhar a aula:
+Operadores boleanos
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators
+Operadores boleanos
+
+Um igual, dois iguais e três iguais? QUE???
+https://pt.stackoverflow.com/questions/7/qual-a-diferen%C3%A7a-entre-os-operadores-e-em-javascript
+
+Conteúdos extras:
+while no MDN
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while
+
+Math.random() no MDN
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random
